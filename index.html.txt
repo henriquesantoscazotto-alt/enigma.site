@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Arquivo Público 09</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+    <h1>Arquivo Público 09</h1>
+
+    <p>
+      Este arquivo foi mantido por razões históricas.
+    </p>
+
+    <p>
+      Registros incompletos não devem ser interpretados fora de contexto.
+    </p>
+
+    <p>
+      Evidências são frequentemente mal compreendidas.
+    </p>
+
+    <p>
+      Silêncios dizem mais do que relatórios.
+    </p>
+
+    <p>
+      Consulte apenas o que foi autorizado.
+    </p>
+
+    <!--
+      Nem todos os registros estão visíveis.
+      Observe o início.
+    -->
+
+    <footer>
+      <small>Última atualização: 1997</small>
+    </footer>
+  </div>
+
+</body>
+</html>

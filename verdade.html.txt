@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Registro Interno</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+    <h1>Registro Interno</h1>
+
+    <p>
+      Se você chegou até aqui, então aceitou o que sempre foi.
+    </p>
+
+    <p>
+      Nem todos precisam saber.
+    </p>
+
+    <p>
+      Alguns apenas lembram.
+    </p>
+
+    <p class="glitch">
+      O arquivo não deveria ser acessado.
+    </p>
+  </div>
+
+</body>
+</html>
