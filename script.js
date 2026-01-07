@@ -3,10 +3,11 @@ function verificar() {
   const mensagem = document.getElementById("mensagem");
 
   if (senha === "amaldiçoados") {
-    window.location.href = "verdade.html";
+    window.location.href = "começo.html";
   } else {
     mensagem.textContent = "Você ainda não compreende.";
     mensagem.style.color = "red";
   }
 }
+
 
